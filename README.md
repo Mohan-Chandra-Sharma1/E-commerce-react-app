@@ -1,5 +1,41 @@
 # Getting Started with Create React App
 
+E-commerce react-app.
+
+Below we atteched screenshot for your reference.
+
+1.Here we show product list.
+
+
+![Screenshot_20230126_173036](https://user-images.githubusercontent.com/120721761/214834109-4d0383ac-5b37-4cfd-bc8e-6a57ffe71eb6.png)
+
+
+![Screenshot_20230126_173733](https://user-images.githubusercontent.com/120721761/214834358-cdd0587f-edb8-42e9-81a8-f29b29685d7e.png)
+
+
+
+2.Here we add product to cart.
+
+
+![Screenshot_20230126_173606](https://user-images.githubusercontent.com/120721761/214834515-82bff357-2228-406d-a699-bb7324ad92be.png)
+
+
+3.Here we shows product details.
+
+
+![Screenshot_20230126_173526](https://user-images.githubusercontent.com/120721761/214834701-9652889e-f964-4acb-ab66-7cf4fd73ec8a.png)
+
+
+![Screenshot_20230126_173253](https://user-images.githubusercontent.com/120721761/214834613-eb32c984-59a0-40f2-a377-ce9eb7775c7a.png)
+
+
+4.Edit porduct description.
+
+
+![Screenshot_20230126_173138](https://user-images.githubusercontent.com/120721761/214835036-87ac0242-ad8a-4592-bb6b-8246162c95d1.png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
